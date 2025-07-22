@@ -4,17 +4,49 @@
 
 - 📫 How to reach me **sathvikamaridi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sai sathvika reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai sathvika reddy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sathvika reddy maridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sathvika reddy maridi" height="30" width="40" /></a>
-</p>
+### 🧑‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+```yaml
+Name: M Sai Sathvika Reddy
+Email: sathvikamaridi@gmail.com
+Location: Bangalore, Karnataka
+````
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathvikamaridi&show_icons=true&locale=en&layout=compact" alt="sathvikamaridi" /></p>
+Aspiring software engineer with a strong foundation in problem-solving, machine learning, and data visualization. Focused on building scalable ML systems and designing intuitive, data-driven user interfaces
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikamaridi&" alt="sathvikamaridi" /></p>
+---
 
+### 🧰 Tech Toolbox
+
+#### 🚀 Programming Languages
+
+`Python`   `Java`   `SQL`
+
+#### 🧠 Libraries & Frameworks
+
+`Pandas`   `NumPy`   `Scikit-learn`   `Matplotlib`
+`Streamlit`   
+
+#### 🧪 Tools & Platforms
+
+`VS Code`   `Cursor`   `Eclipse`   `Spyder`
+`SQL Workbench`   `Wireshark`   `Power BI`   `Tableau`
+`MongoDB`   `Replit`   `Docker`   `Google Colab`
+
+---
+
+### 📈 GitHub Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathvikamaridi&show_icons=true&locale=en&layout=compact" alt="Sathvika Reddy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikamaridi&" alt="Sathvika Reddy" /></p>
+
+---
+
+### ✨ Let's Connect
+
+Driven by curiosity and a commitment to lifelong learning. Always open to connect, collaborate, and create meaningful solutions together.
+> *“DECODING PATTERNS, DRIVING PROGRESS”*
+
+---
 
